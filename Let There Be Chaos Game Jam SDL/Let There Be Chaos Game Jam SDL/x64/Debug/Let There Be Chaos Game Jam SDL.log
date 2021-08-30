@@ -1,14 +1,16 @@
 ﻿  main.cpp
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(57,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(81,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(119,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(145,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(216,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(217,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(226,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(227,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(231,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(232,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(282,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(288,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Let There Be Chaos Game Jam SDL.vcxproj -> C:\Users\catty\source\repos\Let There Be Chaos Game Jam SDL\x64\Debug\Let There Be Chaos Game Jam SDL.exe
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(136,14): warning C4101: 'renderImage': unreferenced local variable
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(171,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(158,15): warning C4101: 'renderImage': unreferenced local variable
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(331,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(334,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(494,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(495,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(504,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(505,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(611,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(612,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(702,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(680,14): warning C4101: 'renderImage': unreferenced local variable
+C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\Let There Be Chaos Game Jam SDL\main.cpp(747,15): warning C4101: 'renderImage': unreferenced local variable
+  Let There Be Chaos Game Jam SDL.vcxproj -> C:\Users\catty\Documents\SDL-Game-For-Brackeys-Jam\Let There Be Chaos Game Jam SDL\x64\Debug\Let There Be Chaos Game Jam SDL.exe

@@ -18,12 +18,9 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BlockSpawner.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BlockSpawner.h">
+    <ClInclude Include="RenderImage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
